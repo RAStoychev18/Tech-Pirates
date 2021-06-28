@@ -51,10 +51,10 @@
 }
 .fixed-btn{
   position: fixed;
-  width: 100px;
+  width: 180px;
   height: 45px;
   line-height: 45px;
-  bottom: 20;
+  bottom: 10;
   right: 3%;
   border-radius: 3px;
   text-align: center;
